@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fuel Density</string>
+    <string name="app_header_title">Fuel Density Converter</string>
+    <string name="astm_offline_badge">ASTM 53B</string>
+    <string name="nav_converter">Converter</string>
+    <string name="nav_astm_tables">ASTM Tables</string>
+    <string name="nav_tank_logbook">Tank Logbook</string>
+    <string name="nav_calibration">Calibration</string>
+    <string name="label_fuel_grade">FUEL GRADE SELECTION</string>
+    <string name="label_observed_temp">OBSERVED TEMPERATURE</string>
+    <string name="label_observed_density">OBSERVED DENSITY (HYDROMETER)</string>
+    <string name="label_invoice_density">INVOICE / CHALLAN DENSITY @ 15°C</string>
+    <string name="cta_calculate_density">Calculate</string>
+    <string name="cta_log_to_tank">Log to Tank</string>
+    <string name="label_standard_density_15c">STANDARD DENSITY @ 15°C</string>
+    <string name="label_recent_offline_cache">RECENT OFFLINE CACHE</string>
+    <string name="unit_celsius">°C</string>
+    <string name="unit_kg_m3">kg/m³</string>
+    <string name="cd_fuel_icon">Fuel grade icon</string>
+    <string name="cd_compliance_badge">ASTM 53B verification status</string>
+    <string name="cd_decrement">Decrease value</string>
+    <string name="cd_increment">Increase value</string>
+    <string name="cd_delete_log">Delete tank log entry</string>
+    <!-- Replace with your production AdMob IDs before releasing on Google Play -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
