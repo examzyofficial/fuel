@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Density Converter",
+  "description": "Precision ASTM 53B fuel density converter, reference tables, and offline tank logbook for field operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
